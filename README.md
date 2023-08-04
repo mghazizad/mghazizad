@@ -1,6 +1,7 @@
 <h1>Hi, I'm Mahmood! <br/><a href="https://www.linkedin.com/in/mghazizadeh/">Research & Insights Professional</a>
 
-<h2>👨‍💻I've also been learning Tableau, SQL and Python in my spare time. Here is a list of projects I've done so far:</h2>
+<h2>👨‍💻I've also been learning Tableau, SQL and Python in my spare time. 
+       Here is a list of projects I've done so far:</h2>
 
 - <b>SQL</b>
   - [Exploring COVID-19 Deaths & Vaccination Datasets using SQL](https://github.com/mghazizad/SQL-Code/blob/main/Queries%20for%20Tableau.sql)
@@ -9,29 +10,17 @@
 - <b>Tableau</b>
   - [Covid-19 Infection Dashboard](https://public.tableau.com/app/profile/mahmood6996/viz/COVID19InfectionAnalysis-upuntilJune2023/Dashboard2)
   
+<h2> 👯 Looking for opportunities to collaborate in the following areas:</h2>
 
 
+- <b>Insights</b>
 
-<h2> 🤳 Connect with me:</h2>
+- <b>Business Analysis </b>
 
 
-Here are some ideas to get you started:
+<h2> 📫 Feel free to connect with me via email:</h2>
+<a href="mailto:mghazizad@gmail.com">mghazizad@gmail.com</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 👋 Hi, I’m @mghazizad
-- 👀 I’m interested in business analytics, data science and machine learning concepts.
-- 🌱 I’m currently learning Python and improving my SQL and Tableau skills.
-- 💞️ I’m looking for opportunities to collaborate as a business analyst or a data analyst.
-- 📫 How to reach me: mghazizad@gmail,com
 
 <!---
 mghazizad/mghazizad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
